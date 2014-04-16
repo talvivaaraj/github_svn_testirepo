@@ -2,4 +2,4 @@ Simple todo.
 
 Sprint #1
 Feature 1
-Ominaisuus 2
+Feature 2
